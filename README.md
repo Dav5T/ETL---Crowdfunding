@@ -30,7 +30,7 @@ After processing and transforming the data, all the tables should be exported in
 <br>&ensp;- Right click on the database, crowdfunding_db
 <br>&ensp;- Click on Query Tool 
 <br>&ensp;- Open **crowdfunding_db_schema.sql**. Copy and paste each table creation. 
-<br>&ensp;- After creating a table, import the appropriate csv file accordingly, and then check to ensure it was correctly imported:
+<br>&ensp;- After creating a table, import the appropriate csv file accordingly:
 <br>&ensp; * Contacts --> contacts.csv
 <br>&ensp; * category --> category.csv
 <br>&ensp; * subcategory --> subcategory.csv
